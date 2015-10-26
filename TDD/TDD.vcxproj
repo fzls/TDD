@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\TDD_C++\code\c2\3\main.cpp" />
-    <ClCompile Include="..\..\..\TDD_C++\code\c2\5\SoundexTest.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="SoundexTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
